@@ -13,6 +13,22 @@ main {
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.349);  
  
 }
+h1 {
+  font-size: 2em;
+  color: cadetblue;
+}
+a{
+  text-decoration-line: none;
+  font-weight: bold;
+  color: darkblue;
+}
+img.lado{
+  float: right;
+}
+a:hover{
+  text-decoration: underline;
+  color: chartreuse;
+}
 p {
-  color: wheat;
+  color: rgb(240, 238, 236);
 }
