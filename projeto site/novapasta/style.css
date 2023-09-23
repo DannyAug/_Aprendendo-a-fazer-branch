@@ -6,10 +6,13 @@ body {
     background-color: darkgray;
 }
 main {
-    background-color: white;
+    background-color: rgba(49, 47, 47, 0.938);
     width: 550px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.349);   
-
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.349);  
+ 
+}
+p {
+  color: wheat;
 }
